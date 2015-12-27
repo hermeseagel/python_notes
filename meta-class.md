@@ -15,7 +15,7 @@ def IntContainer():
 #create The class definition
 container_class = IntContainer()
 # 建立 instane
-weapped_int= container_class()
+wrapped_int= container_class()
 wrapped_int.content_int = 123334 
 wrapped_int.len()
 

@@ -8,16 +8,18 @@
 def IntContainer():
     class Int:
         def __init__(self):
-            self.content_string = ""
+            self.content_int = ""
         def len(self):
-            return len(self.content_string)
+            numberlength=str(self.content_int)
+            return len(numberlength)
     return Int
 #create The class definition
 container_class = IntContainer()
 # 建立 instane
 wrapped_int= container_class()
 wrapped_int.content_int = 123334 
-wrapped_int.len()
+print(wrapped_int.len())
+
 
 ```
 

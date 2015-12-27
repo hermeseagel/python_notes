@@ -2,7 +2,7 @@
 
 ###Meta class 
 ###有一個Method __prepare__
-在Python中 METACLASS 是不Class Factory 
+在Python中 METACLASS 是個 Class Factory, 就像是一般 Class用法。
 
 ```
 def IntContainer():

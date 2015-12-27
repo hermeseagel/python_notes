@@ -1,3 +1,4 @@
 # Meta-Class
 
-###Meta class can define 
+###Meta class 
+###有一個Method __prepare__

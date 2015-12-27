@@ -6,10 +6,11 @@
 
 ```
 def IntContainer():
-    def __init__(self):
-        self.content_int = ""
-    def len(self):
-        return len(self.content_string)
+    class Int:
+        def __init__(self):
+            self.content_string = ""
+        def len(self):
+            return len(self.content_string)
     return Int
 #create The class definition
 container_class = IntContainer()

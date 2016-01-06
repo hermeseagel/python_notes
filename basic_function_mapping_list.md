@@ -2,7 +2,7 @@
 
 | 項目 |PYTHON | R LANG |
 | --- | --- | ---|
-| Data Type | dict, list, set,<br>frozenset,tuple,str | 2:2 |
+| Data Type | dict, list, set,<br>frozenset,tuple,str | Numbers,Strings,Factors |
 | 0:3 | 1:3 | 2:3 |
 | 0:4 | 1:4 | 2:4 |
 | 0:5 | 1:5 | 2:5 |

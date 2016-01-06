@@ -4,7 +4,7 @@
 | --- | --- | ---|
 | Data Type | dict, list, set,<br>frozenset,tuple,str | Numbers,Strings,Factors,Data , Logical,Tables |
 | 數字 | int, float, long, complex <p> a = 3 #int<br> a = 4.0 #float | a <-3  |
-| 字串 | 1:4 | 2:4 |
+| 字串 | Stra='yyy' | a <- '3' |
 | 0:5 | 1:5 | 2:5 |
 | 0:6 | 1:6 | 2:6 |
 | 0:7 | 1:7 | 2:7 |

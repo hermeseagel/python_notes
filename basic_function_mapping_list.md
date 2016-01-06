@@ -2,9 +2,9 @@
 
 | 項目 |PYTHON | R LANG |
 | --- | --- | ---|
-| Data Type | dict, list, set,<br>frozenset,tuple,str | Numbers,Strings,Factors,Data Frames |
-| 0:3 | 1:3 | 2:3 |
-| 0:4 | 1:4 | 2:4 |
+| Data Type | dict, list, set,<br>frozenset,tuple,str | Numbers,Strings,Factors,Data , Logical,Tables |
+| 數字 | 1:3 | 2:3 |
+| 字串 | 1:4 | 2:4 |
 | 0:5 | 1:5 | 2:5 |
 | 0:6 | 1:6 | 2:6 |
 | 0:7 | 1:7 | 2:7 |

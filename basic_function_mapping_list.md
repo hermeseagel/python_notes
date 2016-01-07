@@ -21,3 +21,8 @@
 | 0:18 | 1:18 | 2:18 |
 | 0:19 | 1:19 | 2:19 |
 | 0:20 | 1:20 | 2:20 |
+
+
+
+[Python for R User](http://www.slideshare.net/ajayohri/python-for-r-users)
+[R vs Python：データ解析を比較](http://postd.cc/r-vs-python-head-to-head-data-analysis/)

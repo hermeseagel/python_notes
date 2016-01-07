@@ -26,3 +26,4 @@
 
 [Python for R User](http://www.slideshare.net/ajayohri/python-for-r-users)
 [R vs Python：データ解析を比較](http://postd.cc/r-vs-python-head-to-head-data-analysis/)
+[NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)

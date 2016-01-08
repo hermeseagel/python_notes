@@ -8,7 +8,7 @@
 | List | lista=[a,b] | list <- list(name='newman',partner='tom') |
 | tuple | tuplea=('aaa',1234,'bbbb',222) | NA |
 | dic | dica={}<br>dica['one'] = "This is one" dica[2] = "This is two" |NA |
-| Factor |  | 2:8 |
+| Factor | 使用PANDAS<P>import pandas | 2:8 |
 | Array | 1:9 | 2:9 |
 | 0:10 | 1:10 | 2:10 |
 | 0:11 | 1:11 | 2:11 |

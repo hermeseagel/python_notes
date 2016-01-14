@@ -1,7 +1,7 @@
 # Python 3 With NewSQL
 
 
-##install pip
+##install Mem SQL 
 
 ```
 #core need 4cores
@@ -51,4 +51,12 @@ web UI on port 9000. Make sure that port 9000 is open in your
 firewall or security group.
 安裝後WEBUI 
 ![](Screenshot from 2016-01-14 22:54:21.png)
+```
+###由於我是安裝Maraidb client , 在開發環境上
+我改安裝Mariadb-client 
+```
+apt-get install -y libmysqlclient-dev
+apt-get install -y mariadb-client-10.0
+apt-get install -y python3-dev
+
 ```

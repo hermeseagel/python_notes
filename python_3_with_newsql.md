@@ -4,7 +4,8 @@
 ##install Mem SQL 
 
 MemSQL 是個相容於MySQL 語法，但是是用MEMORY作為載體及可作永久化的RDBMS 
-
+另一特點可以作CLUSTER 
+20160114  我還沒有作測試，而且本文重點在於怎麼作MEMSQL 及PYTHON 開發。
 
 ```
 #core need 4cores 很重要一定要4CORE因為我只弄一CORE 根本不能安裝

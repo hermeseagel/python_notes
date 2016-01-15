@@ -69,4 +69,7 @@ apt-get install -y libmysqlclient-dev
 apt-get install -y mariadb-client-10.0
 apt-get install -y python3-dev
 
+Install memsql 
+pip3.4 install memsql
+
 ```

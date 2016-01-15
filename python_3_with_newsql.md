@@ -5,6 +5,7 @@
 
 MemSQL 是個相容於MySQL 語法，但是是用MEMORY作為載體及可作永久化的RDBMS 
 
+
 ```
 #core need 4cores 很重要一定要4CORE因為我只弄一CORE 根本不能安裝
 #Disk need 24G 

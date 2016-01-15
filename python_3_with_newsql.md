@@ -50,7 +50,7 @@ You can setup, manage and monitor MemSQL with the MemSQL Ops
 web UI on port 9000. Make sure that port 9000 is open in your
 firewall or security group.
 安裝後WEBUI 
-![](Screenshot from 2016-01-14 22:54:21.png)
+![![](Snip20160104_5.png)](Screenshot from 2016-01-14 22:54:21.png)
 ```
 ###由於我是安裝Maraidb client , 在開發環境上
 我改安裝Mariadb-client 

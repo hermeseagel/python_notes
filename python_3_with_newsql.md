@@ -10,6 +10,7 @@ cd
 ```
 注意 /var 至少要1G可用空間。 
 另一點MemSQL 使用Python作 WEBUI 呈現。
+然後在其WEBUI 可以幫你裝SPARK  可是我不會用 
 
 
 ```

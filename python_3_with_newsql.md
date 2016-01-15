@@ -4,11 +4,12 @@
 ##install Mem SQL 
 
 ```
-#core need 4cores
-#Disk need 24G
+#core need 4cores 很重要一定要4CORE因為我只弄一CORE 根本不能安裝
+#Disk need 24G 
 cd 
 ```
-
+注意 /var 至少要1G可用空間。 
+另一點MemSQL 使用Python作 WEBUI 呈現。
 
 
 ```
@@ -51,9 +52,11 @@ web UI on port 9000. Make sure that port 9000 is open in your
 firewall or security group.
 
 ```
+
 安裝後WEB UI 
 
 [![MemSQL WEBUI](MEMSQL_WEBUI.png)](MEMSQL_WEBUI.png)
+另外WEBUI 可以用
 ###由於我是安裝Maraidb client , 在開發環境上
 我改安裝Mariadb-client 
 ```
